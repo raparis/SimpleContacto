@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Petgram</string>
+    <string name="star_text_sample">5</string>
+    <string name="mensaje_add_stars">Agregar Estrella (pendiente)...</string>
+</resources>
